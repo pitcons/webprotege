@@ -22,11 +22,11 @@ public class TimeUtil_TestCase {
 
     public static final long TWO_DAYS = 2 * ONE_DAY;
 
-    public static final long THU_SEPTEMBER_FIRST_2011 = 1314917789000l;
+    public static final long THU_SEPTEMBER_FIRST_2011 = 1314806400000L;
 
-    public static final long THU_SEPTEMBER_TWENTY_FIRST_2011 = 1316645789000l;
+    public static final long THU_SEPTEMBER_TWENTY_FIRST_2011 = 1316534400000L;
 
-    public static final long THU_SEPTEMBER_THIRTIETH_2011 = 1317423389000l;
+    public static final long THU_SEPTEMBER_THIRTIETH_2011 = 1317312000000L;
 
     private final long t0 = 1000;
 
